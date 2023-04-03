@@ -1,0 +1,5 @@
+echo "welcome to project school">>file.txt
+echo "cybersecurity ">>file.txt
+cat file.txt
+
+
